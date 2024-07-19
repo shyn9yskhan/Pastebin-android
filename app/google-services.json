@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525410368800",
+    "project_id": "pastebin-aafb0",
+    "storage_bucket": "pastebin-aafb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525410368800:android:c5f509dde883721904eb45",
+        "android_client_info": {
+          "package_name": "com.example.pastebinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPM3H2u4Zo-CbSXo7795-V0uKa5dvFWTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
